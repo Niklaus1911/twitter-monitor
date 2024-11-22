@@ -5,11 +5,9 @@ A Python script that monitors Twitter/X accounts for new posts and replies.
 ## Features
 
 - Monitors both posts and replies
-- Distinguishes between posts and replies
 - Provides clickable links to tweets
 - Headless operation after initial login
 - Session persistence
-- Safe termination with Ctrl+C
 
 ## Requirements
 
